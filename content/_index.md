@@ -1,8 +1,8 @@
 ---
-description: Welcome to this sample project
+description: Gabriel Bruno
 images:
-- /images/sample.jpg
-title: Fotografia e Cinema
+- /images/profile.png
+title: Gabriel Bruno
 ---
 
 Bem vindo,
