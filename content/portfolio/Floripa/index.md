@@ -4,7 +4,7 @@ description: This is the description of our sample project
 date: "2020-05-02T19:47:09+02:00"
 jobDate: 2020
 work: [direção de fotografia]
-thumbnail: Floripa/floripa.jpeg
+thumbnail: floripa/floripa.jpeg
 projectUrl: https://youtu.be/LSz1xR37JOc/
 ---
 
