@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Techs on Gabriel Bruno</title>
-    <link>/techs/</link>
-    <description>Recent content in Techs on Gabriel Bruno</description>
+    <title>POST on Gabriel Bruno</title>
+    <link>/equipamentos/</link>
+    <description>Recent content in POST on Gabriel Bruno</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Gabriel Bruno</copyright>
     
-	<atom:link href="/techs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/equipamentos/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

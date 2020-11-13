@@ -1,23 +1,11 @@
 ---
-date: "2019-05-02T19:47:09+02:00"
+title: Mostra Quelly 2020
 description: This is the description of our sample project
-designs:
-- Photoshop
-jobDate: 2019
-projectUrl: https://www.sampleorganization.org
-techs:
-- javascript
-- D3
-testimonial:
-  image: sample-project/john.jpg
-  name: John Doe
-  role: CEO @Example
-  text: Prow scuttle parrel provost Sail ho shrouds spirits boom mizzenmast yardarm. Pinnace holystone mizzenmast quarter crow's nest nipperkin
-thumbnail: sample-project/sample.jpg
-title: Sample project
-work:
-- design
-- architecture
+date: "2019-05-02T19:47:09+02:00"
+jobDate: 2020
+work: [direção de fotografia]
+thumbnail: Vinheta-Mostra-Quelly-2020/last.jpeg
+projectUrl: https://youtu.be/LSz1xR37JOc/
 ---
 
 This would be a description of your sample project. You can add any content you'd like.

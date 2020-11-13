@@ -2,13 +2,13 @@
 description: Welcome to this sample project
 images:
 - /images/sample.jpg
-title: HOME
+title: Fotografia e Cinema
 ---
 
-Hey,
+Bem vindo,
 
-I'm Edna West, a Web Developer and Entrepreneur.
+Eu sou Gabriel Bruno, diretor de fotografia e assistente de câmera.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus error cumque quisquam necessitatibus libero dolore porro, quo at molestiae modi voluptatibus iusto alias corporis. Accusamus, debitis, atque. Maiores, distinctio, neque.
+Nesse site você encontrará meus contatos, meus projetos e meu currículo na área de fotografia voltada para produção audiovisual. Nesse site você encontrará meus contatos, meus projetos e meu currículo na área de fotografia voltada para produção audiovisual. Nesse site você encontrará meus contatos, meus projetos e meu currículo na área de fotografia voltada para produção audiovisual. Nesse site você encontrará meus contatos, meus projetos e meu currículo na área de fotografia voltada para produção audiovisual.
 
-[Get to know me better](/about "Get to know me better")
+[Saiba mais sobre mim!](/sobre "Saiba mais sobre mim")
