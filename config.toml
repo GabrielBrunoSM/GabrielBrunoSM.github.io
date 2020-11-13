@@ -10,7 +10,7 @@ pygmentsUseClasses=true
 pygmentsCodeFences=true
 
 [params.intro]
-  main = "Gabriel Bruno  :camera:"
+  main = "Gabriel Bruno"
   sub = "Direção de fotografia | Assistente de câmera"
 
 [params.main]
