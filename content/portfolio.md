@@ -4,7 +4,7 @@ title: Portfolio
 
 ## Mostra Quelly 2020
 
-Outubro de 2020
+2020
 
 {{< image src="img/quelly/Quelly 1.jpg" set="fit" >}}
 
@@ -17,9 +17,9 @@ Vinheta - segunda edição Mostra Quelly de Cinema de Gênero.
 
 ---
 
-## Videoclipe FRIMES - Fadinha
+## clipe FRIMES - Fadinha
 
-Maio de 2018
+2018
 
 {{< image src="img/fadinha/FADINHA1.jpg" set="fit" >}}
 
@@ -32,7 +32,9 @@ Vídeoclipe Oficial da música "Fadinha" da artista FRIMES.
 
 ---
 
-## Videoclipe Chris Cavalcante
+## clipe Chris Cavalcante
+
+2019
 
 {{< image src="img/clipe/CHRIS 1.jpg" set="fit" >}}
 
@@ -44,7 +46,7 @@ Vídeoclipe do artista Chris Cavalcante, dirigido por Ruy Castro.
 
 ---
 
-## Filme people in the sun
+## people in the sun
 
 {{< image src="img/people/PITS 1.jpg" set="fit" >}}
 
