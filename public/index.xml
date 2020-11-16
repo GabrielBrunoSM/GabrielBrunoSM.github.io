@@ -11,21 +11,19 @@
     
     
     <item>
-      <title>Contato</title>
-      <link>/contato/</link>
+      <title>Sobre</title>
+      <link>/sobre/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/contato/</guid>
-      <description>Entre em contato comigo para projetos e trabalhos:
-  Telefone: +55 98 9 9181 7519
-  Whatsapp: +55 98 9 8468 9065
-  Instagram: @gabrielbrun.o
-  Email: gabriel.brunosm@gmail.com
-  </description>
+      <guid>/sobre/</guid>
+      <description>Eu sou Gabriel Bruno, diretor de fotografia.
+Sou formado pela Escola de Cinema do Maranhão (IEMA), tenho atuado com direção de fotografia e assistência de câmera há cerca de 4 anos em curtas e longas metragens. Possuo experiência em produção de videoclipes, documentários e materiais publicitários em geral.
+Para conhecer alguns dos meus trabalhos recentes e mais relevantes você pode consultar meu portfólio aqui.
+</description>
     </item>
     
     <item>
-      <title>Portfolio</title>
+      <title> Portfolio</title>
       <link>/portfolio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -40,15 +38,17 @@
     </item>
     
     <item>
-      <title>Sobre</title>
-      <link>/sobre/</link>
+      <title>  Contato</title>
+      <link>/contato/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/sobre/</guid>
-      <description>Eu sou Gabriel Bruno, diretor de fotografia.
-Sou formado pela Escola de Cinema do Maranhão (IEMA), tenho atuado com direção de fotografia e assistência de câmera há cerca de 4 anos em curtas e longas metragens. Possuo experiência em produção de videoclipes, documentários e materiais publicitários em geral.
-Para conhecer alguns dos meus trabalhos recentes e mais relevantes você pode consultar meu portfólio aqui.
-</description>
+      <guid>/contato/</guid>
+      <description>Entre em contato comigo para projetos e trabalhos:
+  Telefone: +55 98 9 9181 7519
+  Whatsapp: +55 98 9 8468 9065
+  Instagram: @gabrielbrun.o
+  Email: gabriel.brunosm@gmail.com
+  </description>
     </item>
     
   </channel>

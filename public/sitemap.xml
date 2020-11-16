@@ -7,15 +7,7 @@
   </url>
   
   <url>
-    <loc>/contato/</loc>
-  </url>
-  
-  <url>
     <loc>/</loc>
-  </url>
-  
-  <url>
-    <loc>/portfolio/</loc>
   </url>
   
   <url>
@@ -24,6 +16,14 @@
   
   <url>
     <loc>/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>/portfolio/</loc>
+  </url>
+  
+  <url>
+    <loc>/contato/</loc>
   </url>
   
 </urlset>

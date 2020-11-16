@@ -1,5 +1,5 @@
 ---
-title: Contato
+title:   Contato
 ---
 
 Entre em contato comigo para projetos e trabalhos:
