@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gabriel Bruno on My New Hugo Site</title>
+    <link>/</link>
+    <description>Recent content in Gabriel Bruno on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contato</title>
+      <link>/contato/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contato/</guid>
+      <description>Entre em contato comigo para projetos e trabalhos:
+  Telefone: +55 98 9 9181 7519
+  Whatsapp: +55 98 9 8468 9065
+  Instagram: @gabrielbrun.o
+  Email: gabriel.brunosm@gmail.com
+  </description>
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>/portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/</guid>
+      <description>Mostra Quelly 2020 Outubro de 2020
+#slide-window {position: relative;width: 550px;height: 230px;overflow: hidden;top: 0px;left: 0px;}#slides-list {width: 550px;height: 230px;position: absolute;margin: 0px;padding: 0px;-webkit-transform: translate3d(0px, 0px, 0px);transform: translate3d(0px, 0px, 0px);transition: all 0.66s ease;-webkit-transition: all 0.66s ease;}.slide {list-style: none;position: relative;float: left;margin: 0;padding: 0;width: 550px;height: 230px;background: #ccc;text-align: center;line-height: 100%;background-size: cover;background-position: 50% 50%;color: #fff;-webkit-transform: translate3d(0px, 0px, 0px);-webkit-transform-style: preserve-3d;}.</description>
+    </item>
+    
+    <item>
+      <title>Sobre</title>
+      <link>/sobre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sobre/</guid>
+      <description>Eu sou Gabriel Bruno, diretor de fotografia.
+Sou formado pela Escola de Cinema do Maranhão (IEMA), tenho atuado com direção de fotografia e assistência de câmera há cerca de 4 anos em curtas e longas metragens. Possuo experiência em produção de videoclipes, documentários e materiais publicitários em geral.
+Para conhecer alguns dos meus trabalhos recentes e mais relevantes você pode consultar meu portfólio aqui.
+</description>
+    </item>
+    
+  </channel>
+</rss>
