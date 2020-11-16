@@ -6,11 +6,11 @@ title: Portfolio
 
 Outubro de 2020
 
-{{< gallery-slider dir="/img/quelly/" width="550px" height="230px" auto-slide="3000" arrow-left="fa-angle-double-left" arrow-right="fa-angle-double-right" >}}
+{{< image src="img/quelly/Quelly 1.jpg" set="fit" >}}
 
 <br/><br/>
 
-Vinheta - segunda edição Mostra Quelly de Cinema de Gênero. Documentários, videoarte e filmes de ficção que tratam da interseccionalidade entre as questões de gênero, raça e classe.
+Vinheta - segunda edição Mostra Quelly de Cinema de Gênero.
 
 - **Vimeo**: https://vimeo.com/476447172
 - **YouTube**: https://youtu.be/LSz1xR37JOc
@@ -21,7 +21,7 @@ Vinheta - segunda edição Mostra Quelly de Cinema de Gênero. Documentários, v
 
 Maio de 2018
 
-{{< figure src="img/fadinha/FADINHA1.jpg" width="550px" height="230px" >}}
+{{< image src="img/fadinha/FADINHA1.jpg" set="fit" >}}
 
 <br/><br/>
 
@@ -34,7 +34,7 @@ Vídeoclipe Oficial da música "Fadinha" da artista FRIMES.
 
 ## Videoclipe Chris Cavalcante
 
-{{< figure src="img/clipe/CHRIS 1.jpg" width="550px" height="230px" >}}
+{{< image src="img/clipe/CHRIS 1.jpg" set="fit" >}}
 
 <br/><br/>
 
@@ -46,7 +46,7 @@ Vídeoclipe do artista Chris Cavalcante, dirigido por Ruy Castro.
 
 ## Filme people in the sun
 
-{{< figure src="img/people/PITS 1.jpg" width="550px" height="230px" >}}
+{{< image src="img/people/PITS 1.jpg" set="fit" >}}
 
 <br/><br/>
 
@@ -60,7 +60,7 @@ Curta metragem People In the Sun, dirigido por Ruy Castro.
 
 2020
 
-{{< figure src="img/macho/MACHO 2.jpg" width="550px" height="230px" >}}
+{{< image src="img/macho/MACHO 2.jpg" set="fit" >}}
 
 <br/><br/>
 
@@ -74,7 +74,7 @@ Curta metragem dirigido por George Pedrosa.
 
 2019
 
-{{< figure src="img/colidiremos/COLIDIREMOS 1.jpg" width="550px" height="230px" >}}
+{{< image src="img/colidiremos/COLIDIREMOS 1.jpg" set="fit" >}}
 
 <br/><br/>
 

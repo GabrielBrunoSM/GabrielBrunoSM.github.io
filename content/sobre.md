@@ -11,7 +11,7 @@ Para conhecer alguns dos meus trabalhos recentes e mais relevantes você pode co
 {{< rawhtml >}}
 
 <p align="center">
-<img src="images/profile2.jpg" width="400">
+<img src="images/profile3.jpg" width="350">
 </p>
 
 {{< /rawhtml >}}
