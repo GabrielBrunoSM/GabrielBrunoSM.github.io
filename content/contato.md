@@ -4,7 +4,7 @@ title:   Contato
 Entre em contato comigo para projetos e trabalhos:
 
 - **Telefone**: +55 98 9 9181 7519
-- **Whatsapp**: +55 98 9 8468 9065
+- **Whatsapp**: [+55 98 9 8468 9065](https://api.whatsapp.com/send?phone=5598984689065)
 - **Instagram**: [@gabrielbrun.o](https://www.instagram.com/gabrielbrun.o/)
 - **Email**: [gabriel.brunosm@gmail.com](mailto:gabriel.brunosm@gmail.com)
 
@@ -13,4 +13,4 @@ Entre em contato comigo para projetos e trabalhos:
 <br/><br/>
 
 {{< image src="images/back2.jpg" set="fit" >}}
-*Photo by [Gabriel Bruno](https://www.instagram.com/gabrielbrun.o/) - Florianópolis, 2019*
+*Photo by [Gabriel Bruno](https://www.instagram.com/p/B3iJvmmpku3/) - Florianópolis, 2019*
