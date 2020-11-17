@@ -10,7 +10,7 @@ title:  Portfolio
 
 <br/><br/>
 
-Vinheta - segunda edição Mostra Quelly de Cinema de Gênero.
+Vinheta - segunda edição [Mostra Quelly de Cinema de Gênero](https://www.instagram.com/mostraquelly/).
 
 - **Vimeo**: https://vimeo.com/476447172
 - **YouTube**: https://youtu.be/LSz1xR37JOc
@@ -23,7 +23,7 @@ Vinheta - segunda edição Mostra Quelly de Cinema de Gênero.
 
 <br/><br/>
 
-Vídeoclipe Oficial da música "Fadinha" da artista FRIMES.
+Vídeoclipe Oficial da música ["Fadinha"](https://youtu.be/wJM5MO76qQk) da artista [Frimes](https://www.instagram.com/frimes/).
 
 - **Making of**: https://youtu.be/8uEuQtJXtzA
 - **YouTube**: https://youtu.be/wJM5MO76qQk
@@ -36,7 +36,7 @@ Vídeoclipe Oficial da música "Fadinha" da artista FRIMES.
 
 <br/><br/>
 
-Vídeoclipe do artista Chris Cavalcante, dirigido por Ruy Castro.
+Vídeoclipe do artista Chris Cavalcante, dirigido por [Ruy Castro](https://www.instagram.com/ruycastro_ph/).
 
 - **Em pós-produção.**
 
@@ -46,7 +46,7 @@ Vídeoclipe do artista Chris Cavalcante, dirigido por Ruy Castro.
 
 <br/><br/>
 
-Curta metragem People In the Sun, dirigido por Ruy Castro.
+Curta metragem People In the Sun, dirigido por [Ruy Castro](https://www.instagram.com/ruycastro_ph/).
 
 - **Em pós-produção.**
 
@@ -58,7 +58,7 @@ Curta metragem People In the Sun, dirigido por Ruy Castro.
 
 <br/><br/>
 
-Curta metragem dirigido por George Pedrosa.
+Curta metragem dirigido por [George Pedrosa](https://www.instagram.com/b0ygeorge/).
 
 - **Vimeo**: https://vimeo.com/450567566
 
@@ -70,7 +70,7 @@ Curta metragem dirigido por George Pedrosa.
 
 <br/><br/>
 
-Curta metragem dirigido por George Pedrosa.
+Curta metragem dirigido por [George Pedrosa](https://www.instagram.com/b0ygeorge/).
 
 - **Vimeo**: https://vimeo.com/313015534
 
