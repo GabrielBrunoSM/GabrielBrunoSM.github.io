@@ -2,48 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gabriel Bruno on My New Hugo Site</title>
-    <link>/</link>
+    <link>http://example.org/</link>
     <description>Recent content in Gabriel Bruno on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sobre</title>
-      <link>/sobre/</link>
+      <link>http://example.org/sobre/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/sobre/</guid>
+      <guid>http://example.org/sobre/</guid>
       <description>Sou formado pela Escola de Cinema do Maranhão (IEMA), tenho atuado com direção de fotografia e assistência de câmera há cerca de 4 anos em curtas e longas metragens. Possuo experiência em produção de videoclipes, documentários e materiais publicitários em geral.
 Para conhecer alguns dos meus trabalhos recentes e mais relevantes você pode consultar meu portfólio aqui ou entrar em contato.
-</description>
+     </description>
     </item>
     
     <item>
       <title> Portfolio</title>
-      <link>/portfolio/</link>
+      <link>http://example.org/portfolio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/portfolio/</guid>
+      <guid>http://example.org/portfolio/</guid>
       <description>Mostra Quelly 2020 2020
-Vinheta - segunda edição Mostra Quelly de Cinema de Gênero.
+ Vinheta - segunda edição Mostra Quelly de Cinema de Gênero.
  Vimeo: https://vimeo.com/476447172 YouTube: https://youtu.be/LSz1xR37JOc  clipe FRIMES - Fadinha 2018
-Vídeoclipe Oficial da música &amp;ldquo;Fadinha&amp;rdquo; da artista Frimes.
+ Vídeoclipe Oficial da música &amp;ldquo;Fadinha&amp;rdquo; da artista Frimes.
  Making of: https://youtu.be/8uEuQtJXtzA YouTube: https://youtu.be/wJM5MO76qQk  clipe Chris Cavalcante 2019
-Vídeoclipe do artista Chris Cavalcante, dirigido por Ruy Castro.
- Em pós-produção.  people in the sun Curta metragem People In the Sun, dirigido por Ruy Castro.</description>
+ Vídeoclipe do artista Chris Cavalcante, dirigido por Ruy Castro.
+ Em pós-produção.  people in the sun  Curta metragem People In the Sun, dirigido por Ruy Castro.</description>
     </item>
     
     <item>
       <title>  Contato</title>
-      <link>/contato/</link>
+      <link>http://example.org/contato/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/contato/</guid>
+      <guid>http://example.org/contato/</guid>
       <description>Entre em contato comigo para projetos e trabalhos:
- Telefone: +55 98 9 9181 7519 Whatsapp: +55 98 9 8468 9065 Instagram: @gabrielbrun.o Email: gabriel.brunosm@gmail.com  Photo by Gabriel Bruno - Florianópolis, 2019</description>
+ Telefone: +55 98 9 9181 7519 Whatsapp: +55 98 9 8468 9065 Instagram: @gabrielbrun.o Email: gabriel.brunosm@gmail.com        Photo by Gabriel Bruno - Florianópolis, 2019</description>
     </item>
     
   </channel>
