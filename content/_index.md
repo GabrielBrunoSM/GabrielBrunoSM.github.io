@@ -1,5 +1,5 @@
 ---
-background: images/floripa.jpeg
+background: img/floripa.jpeg
 description: Direção de Fotografia
 title: Gabriel Bruno
 ---

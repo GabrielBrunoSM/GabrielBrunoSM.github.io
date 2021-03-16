@@ -12,5 +12,5 @@ Entre em contato comigo para projetos e trabalhos:
 
 <br/><br/>
 
-{{< image src="images/back2.jpg" set="fit" >}}
+{{< image src="img/back2.jpg" set="fit" >}}
 *Photo by [Gabriel Bruno](https://www.instagram.com/p/B3iJvmmpku3/) - Florianópolis, 2019*

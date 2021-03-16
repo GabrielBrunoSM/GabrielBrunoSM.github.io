@@ -6,6 +6,6 @@ Sou formado pela **Escola de Cinema do Maranhão (IEMA)**, tenho atuado com **di
 
 Para conhecer alguns dos meus trabalhos recentes e mais relevantes você pode consultar meu [**portfólio aqui**](/#portfolio) ou entrar em [**contato**](/#contato).
 
-{{< image src="images/profile4.png" set="fit" >}}
+{{< image src="img/profile4.png" set="fit" >}}
 
 {{< mysm >}}
