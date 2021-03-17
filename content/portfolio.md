@@ -6,7 +6,7 @@ title:  Portfolio
 
 2021
 
-{{< image src="img/aretuza/aretuza.jpg" set="fit" >}}
+{{< image src="img/aretuza.jpg" set="fit" >}}
 
 <br/><br/>
 
@@ -30,7 +30,7 @@ Documentário realizado em parceria com Governo do Maranhão documentando o tra
 
 2020
 
-{{< image src="img/quelly/Quelly 1.jpg" set="fit" >}}
+{{< image src="img/Quelly.jpg" set="fit" >}}
 
 <br/><br/>
 
@@ -43,7 +43,7 @@ Vinheta - segunda edição [Mostra Quelly de Cinema de Gênero](https://www.inst
 
 2018
 
-{{< image src="img/fadinha/FADINHA1.jpg" set="fit" >}}
+{{< image src="img/FADINHA.jpg" set="fit" >}}
 
 <br/><br/>
 
@@ -68,7 +68,7 @@ Vídeoclipe Oficial da música ["Fadinha"](https://youtu.be/wJM5MO76qQk) da arti
 
 2020
 
-{{< image src="img/macho/MACHO 2.jpg" set="fit" >}}
+{{< image src="img/MACHO.jpg" set="fit" >}}
 
 <br/><br/>
 
@@ -80,7 +80,7 @@ Curta metragem dirigido por [George Pedrosa](https://www.instagram.com/b0ygeorge
 
 2019
 
-{{< image src="img/colidiremos/COLIDIREMOS 1.jpg" set="fit" >}}
+{{< image src="img/COLIDIREMOS.jpg" set="fit" >}}
 
 <br/><br/>
 
